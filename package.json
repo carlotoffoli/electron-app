@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Simple TCP file transfer electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlotoffoli/electron-app.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "carlotoffoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlotoffoli/electron-app/issues"
+  },
+  "homepage": "https://github.com/carlotoffoli/electron-app#readme"
+}
